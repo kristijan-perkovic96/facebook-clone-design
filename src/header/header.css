@@ -1,0 +1,65 @@
+.logo__facebook{
+    width: 40px;
+}
+
+.input__header{
+    border:none;
+    background-color: #F2F3F5;
+   
+}
+
+.header__lijevi{
+    display: flex;
+    align-items: center;
+}
+.search__div{
+    background-color: #F2F3F5;
+    border-radius: 999px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.header__sredina{
+    display: flex;
+}
+.izbornik__option >.MuiSvgIcon-root{
+    color:gray;
+}
+.izbornik__option:hover{
+    background-color: #F2F3F5;
+    border-radius: 5%;
+    cursor: pointer; 
+    
+}
+.izbornik__option{
+    padding:0px 30px;
+}
+.izbornik__option:hover >.MuiSvgIcon-root{
+    color:#2e81f4
+}
+.header__desno{
+    display: flex;
+}
+
+.avatar__header{
+    display: flex;
+    align-items: center;
+}
+
+.header__cijeli{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+    background-color: white;
+}
+
+.desna__opcija >.MuiSvgIcon-root{
+    color:gray;
+}
+
+.desna__opcija{
+    padding: 0px 10px;
+}
+.desna__opcija:hover{
+    cursor: pointer; 
+}

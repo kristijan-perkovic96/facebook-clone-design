@@ -1,0 +1,16 @@
+.gornji__dio{
+    display: flex;
+    justify-content: space-between;
+    color: #C0C0C0;
+}
+.gornji__dio__ikone{
+    margin-left: 250px;
+}
+.kontakt{
+    display: flex;
+    align-items: center;
+    margin-top: 12px;
+}
+.kontakt>h4{
+    margin-left: 15px;
+}

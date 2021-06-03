@@ -1,0 +1,63 @@
+.formaUnos{
+    display: flex;
+    margin-top: 20px;
+    border-radius: 10px ;
+    padding-top:10px;
+
+    
+}
+.formaUnos> input{
+    border:none;
+    border-radius: 10px;
+    width:90%;
+    background-color: #f1f2f5;
+}
+
+.unosne__ikone{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.ikona__kamera>.MuiSvgIcon-root{
+    color:red;
+}
+.ikona__slika>.MuiSvgIcon-root{
+    color: green;
+}
+
+.ikona__emotikon>.MuiSvgIcon-root{
+    color: yellow;
+}
+
+.ikona__kamera{
+    display: flex;
+    padding:2px 20px;
+}
+
+.ikona__kamera:hover{
+   background-color: lightgray;
+   padding:2px 20px;
+   border-radius: 10px;
+}
+.ikona__slika{
+    display: flex;
+    padding:2px 20px;
+}
+
+.ikona__emotikon{
+    display: flex;
+    padding:2px 20px;
+}
+.ikona__slika:hover{
+    background-color: lightgray;
+    padding:2px 20px;
+    border-radius: 10px;
+}
+.ikona__emotikon:hover{
+    background-color: lightgray;
+    padding:2px 20px;
+    border-radius: 10px;
+}
+.tekst__ikone{
+    margin-left: 10px;
+}

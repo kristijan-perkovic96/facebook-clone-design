@@ -1,0 +1,51 @@
+.identitet__objave{
+    display: flex;
+}
+.ime__korisnika{
+    margin-left: 4px;
+}
+.tekst__objave{
+ padding-top: 10px;
+}
+.slika__objave>img{
+    width: 760px;
+    height: 500px;
+
+}
+.padding{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.lajk__komentar{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.lajk__objava{
+    display: flex;
+}
+
+.lajk__objava>.MuiSvgIcon-root{
+    color:#2e81f4;
+}
+.svida__objava{
+    display: flex;
+}
+.svida__komentar__podjeli{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.komentiraj__objava{
+    display: flex;
+}
+.podjeli__objava{
+    display: flex;
+}
+
+.objava{
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 10px ;
+    padding-top: 10px;
+}

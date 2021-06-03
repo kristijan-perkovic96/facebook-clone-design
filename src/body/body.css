@@ -1,0 +1,16 @@
+.body__cijeli{
+    background-color: #F2F3F5;
+    display: flex;
+    margin-top:20px;
+    justify-content: space-between;
+   /* justify-content: space-between;*/
+}
+.unos__cijeli{
+    margin-top: 20px;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 5px;
+    border-radius: 10px;
+}

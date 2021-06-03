@@ -1,0 +1,22 @@
+.story__style{
+    background-repeat: no-repeat;
+    background-size:cover;
+    position: relative;
+    background-position: center center;
+    width: 120px;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.story__avatar{
+ margin:5px;
+ border:solid 5px #2e81f4;
+}
+.story__style>p{
+    color: white;
+    margin-top:100px;
+    margin-left: 5px;
+}
+.stories{
+    display: flex;
+}

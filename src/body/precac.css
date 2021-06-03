@@ -1,0 +1,35 @@
+.precac__div>img{
+    width: 30px;
+}
+.precac__div{
+    display: flex;
+    align-items: center;
+}
+.precac__div>h4{
+    margin-left: 10px;
+}
+.prikazi__vise>.MuiSvgIcon-root{
+    color: gray;
+}
+.precac__div{
+   margin-top: 10px;
+   padding:4px 4px 4px 4px;
+}
+.precaci{
+    margin-left: 10px;
+}
+.prikazi__vise{
+    margin-top: 10px;
+}
+
+.prikazi__vise:hover{
+    background-color: lightgray;
+}
+
+.precac__div:hover{
+    background-color: lightgray;
+    padding:4px 4px 4px 4px;
+}
+.precaci>h2{
+    color: #C0C0C0;
+}
